@@ -9,4 +9,4 @@ Deepface Library for Face Verification : https://github.com/serengil/deepface
 # How to run it
 1 - Install python
 2 - install deepface library
-3 - 
+3 - hello test
